@@ -1,0 +1,25 @@
+body{
+
+    background-image: url(anime.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    color: aliceblue;
+    font-size: 80px;
+    margin-left: 300px;
+    font-style: unset;
+
+}
+.gon{
+    color: aliceblue;
+}
+.zal{
+    color: aliceblue;
+}
+
+.es{
+    color: aliceblue;
+}

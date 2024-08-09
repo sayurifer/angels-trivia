@@ -1,0 +1,20 @@
+body{
+
+    background-image: url(imagenes.jpeg);
+}
+
+h1{
+    color: aliceblue;
+    font-size: 45px;
+    margin-left: 400px;
+    font-style: unset;
+
+}
+.nom1{
+    color: aliceblue;
+}
+.nom2{
+    color: aliceblue;
+
+    
+}
